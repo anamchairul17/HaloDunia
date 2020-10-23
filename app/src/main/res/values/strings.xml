@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HaloDunia</string>
+    <string name="ilustrasi">Ilustrasi</string>
+    <string name="get_started">Get Started</string>
+    <string name="login">Login</string>
+    <string name="please_sign_in_to_continue">Please sign in to continue</string>
+    <string name="don_t_have_account_sign_up">Don\'t have account? Sign Up</string>
+</resources>
